@@ -4,4 +4,4 @@ Haben Sie Angst vor ~~Trollen~~ [selbsternannten möchtegern-Datenschutzanwälte
 
 Falls Sie eine Abmahnung erhalten sollten, leiten Sie diese gerne an uns weiter. Wir befördern Sie in die dafür vorgesehene Mülltonne.
 
-Dieser kostenloser Service wird gesponsort von [CDMN](https://cdmn.de), Ihre Agentur für Real Estate Marketing und 3D Visualisierung in Düsseldorf
+Dieser kostenlose Service wird gesponsort von [CDMN](https://cdmn.de), Ihre Agentur für Real Estate Marketing und 3D Visualisierung in Düsseldorf
