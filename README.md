@@ -1,7 +1,3 @@
 # Google Fonts Proxy
 
-Haben Sie Angst vor ~~Trollen~~ [selbsternannten möchtegern-Datenschutzanwälten](https://www.datenschutzanwalt.eu), die Abmahnungen wegen Google Fonts verschicken? Dann haben wir die perfekte Lösung für Sie. Ersetzen Sie einfach `https://fonts.googleapis.com` durch `https://fonts.buhrmi.de`, und Ihre Besucher sind ab sofort komplett von Google Fonts Servern abgeschirmt.
-
-Falls Sie bereits eine Abmahnung erhalten haben, leiten Sie diese gerne an uns weiter. Wir befördern sie in die dafür vorgesehene Mülltonne.
-
-Dieser kostenlose Service wird gesponsort von [CDMN](https://cdmn.de), Ihre Agentur für Real Estate Marketing und 3D Visualisierung in Düsseldorf
+Simple proxy for Google fonts to prevent IP addresses from EU users traveling to the US. Personally I don't care but there are some wannabe lawyers in the EU who sue website operators who use Google fonts. So yeah.
